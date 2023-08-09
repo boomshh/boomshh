@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:b8dded,100:8e80de&height=200&section=header&text=Hello&fontColor=ffffff&fontSize65&animation=twinkling)
 
 <br>
@@ -35,6 +35,7 @@
 
 <br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboomshh&count_bg=%2386B9E0&title_bg=%23E3E2D7&icon=&icon_color=%23353DC5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boomshh&theme=discord_old_blurple&icons=true)
