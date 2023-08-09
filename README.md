@@ -36,6 +36,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boomshh&theme=buefy&icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boomshh&theme=discord_old_blurple&icons=true)
 
 </div>
